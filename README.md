@@ -1,11 +1,12 @@
-## Olá, me chamo Rodrigo Apolo!  
-### Bem vindo ao meu perfil GitHub 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/70405959/159364625-09577394-fd15-4325-b854-07f17c97cf6a.png" width="300" height="400"/>
-</div>
 <div align="center">
   
-![Snake animation](https://github.com/rodrigoapolo/rodrigoapolo/blob/output/github-contribution-grid-snake.svg)
+## Olá, me chamo Rodrigo Apolo!  
+### Bem vindo ao meu perfil GitHub 
+
+  <img src="https://user-images.githubusercontent.com/70405959/159364625-09577394-fd15-4325-b854-07f17c97cf6a.png" width="300" height="400"/>
+
+  
+
 
 
 Sou um entusiasta de tecnologia que ama resolver problemas através de código e proporcionar crescimento sustentável e escalabilidade aos projetos que atuo.
@@ -26,12 +27,14 @@ Graduando Análise de Desenvolvimento de sistemas, na FATEC em Ferraz de Vasconc
 </div>
 <br/>
 <hr/>
+  
+  ![Snake animation](https://github.com/rodrigoapolo/rodrigoapolo/blob/output/github-contribution-grid-snake.svg)
 <div>
 <a href="https://github.com/rodrigoapolo">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoapolo&layout=compact&langs_count=7&theme=algolia"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoapolo&show_icons=true&theme=algolia=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoapolo&show_icons=true&theme=algolia&count_private=true"/>
 </div>
 
 </div>
