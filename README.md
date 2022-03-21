@@ -25,7 +25,7 @@ Graduando Análise de Desenvolvimento de sistemas, na FATEC em Ferraz de Vasconc
 <hr/>
 <div>
 <a href="https://github.com/rodrigoapolo">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoapolo&layout=compact&langs_count=7&theme=algolia"/>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoapolo&layout=compact&langs_count=7&theme=algolia"/>-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoapolo&show_icons=true&theme=algolia=true&count_private=true"/>
 </div>
 
