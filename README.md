@@ -28,7 +28,7 @@ Graduando Análise de Desenvolvimento de sistemas, na FATEC em Ferraz de Vasconc
 <br/>
 <hr/>
   
-  ![Snake animation](https://github.com/rodrigoapolo/rodrigoapolo/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![Snake animation](https://github.com/rodrigoapolo/rodrigoapolo/blob/output/github-contribution-grid-snake.svg)-->
 <div>
 <a href="https://github.com/rodrigoapolo">
 
