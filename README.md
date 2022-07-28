@@ -25,8 +25,6 @@ Algumas palavras-chave que fazem parte da minha rotina como Desenvolvedor Back-E
 
 <a href="https://www.linkedin.com/in/rodrigo-apolo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-<br/>
-
 </div>
 
 
