@@ -27,10 +27,6 @@ Algumas palavras-chave que fazem parte da minha rotina como Desenvolvedor Back-E
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-          
-          
-          
-
 
 <br/>
 
@@ -40,7 +36,7 @@ Algumas palavras-chave que fazem parte da minha rotina como Desenvolvedor Back-E
 <img width="90" height="90"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
 </a>  
 
-<a href = 'https://www.github.com/rodrigoapolo' target="_blank">
+<a href = "https://www.github.com/rodrigoapolo" target="_blank">
 <img width="90" height="90" src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/>
 </a>
               
