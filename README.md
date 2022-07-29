@@ -39,7 +39,7 @@ Na minha experiência, sempre foquei em boas práticas no desenvolvimento de apl
 </a>
 
 <a href="mailto:rodrigofine@hotmail.com">
-<img width="90" height="90"  src="o-email.png"/>
+<img width="90" height="90"  src="img/gif-email.gif"/>
 </a> 
 
 <h2 align="center"> Estatísticas do meu GitHub </h2>
