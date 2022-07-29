@@ -11,8 +11,6 @@ Sou Graduando Análise de Desenvolvimento de sistemas, mantenho interesse pelas 
 
 Na minha experiência, sempre foquei em boas práticas no desenvolvimento de aplicações, desde performance até SEO, ou ainda na utilização de ferramentas como Maven, Junit (testes A/B) e Mokito para análise, tomada de decisões e melhoria contínua. 
 
-Algumas palavras-chave que fazem parte da minha rotina como Desenvolvedor Back-End: Java, Angular, SQL, Spring Bot, MongoDB, modelo de desenvolvimento ágil, Microsserviços, JavaScript,  consumo de APIs, REST, automatizadores de tarefas, versionamento com git.
-
 <br/>
 <div align="center">
 
