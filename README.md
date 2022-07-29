@@ -11,7 +11,7 @@ Sou Graduando Análise de Desenvolvimento de sistemas, mantenho interesse pelas 
 
 Na minha experiência, sempre foquei em boas práticas no desenvolvimento de aplicações, desde performance até SEO, ou ainda na utilização de ferramentas como Maven, Junit (testes A/B) e Mokito para análise, tomada de decisões e melhoria contínua. 
 
-<br/>
+
 
 <div align="center">
 
@@ -37,11 +37,9 @@ Na minha experiência, sempre foquei em boas práticas no desenvolvimento de apl
 <a href = "https://www.github.com/rodrigoapolo" target="_blank">
 <img width="90" height="90" src="https://camo.githubusercontent.com/18a2fa2ff29bbb86a86819ec50536c3c38bc9fc0ca6b3d17ef48eaf50ea34983/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e6769663f6369643d65636630356534377832673033346939707a77747a7a7364337867673277396e723934743474666c6262676f33303038267269643d67697068792e676966"/>
 </a>
-              
-</div>
 
 <h2 align="center"> Estatísticas do meu GitHub </h2>
-<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoapolo&count_private=true&show_icons=true&theme=algolia" />
 </a>
