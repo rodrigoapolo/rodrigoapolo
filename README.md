@@ -9,8 +9,6 @@
 
 Sou Graduando Análise de Desenvolvimento de sistemas, mantenho interesse pelas áreas de Desenvolvimento de sistemas, softwares,  usuário final e também em pesquisas nas áreas de regras de negócio do sistema, banco de dados e testes de unidade.
 
-Na minha experiência, sempre foquei em boas práticas no desenvolvimento de aplicações, desde performance até SEO, ou ainda na utilização de ferramentas como Maven, Junit (testes A/B) e Mokito para análise, tomada de decisões e melhoria contínua. 
-
 
 
 <div align="center">
@@ -25,7 +23,8 @@ Na minha experiência, sempre foquei em boas práticas no desenvolvimento de apl
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
-
+<img width="90" height="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
 <br/>
 
 ## Contatos
