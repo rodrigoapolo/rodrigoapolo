@@ -2,7 +2,7 @@
   
 ## Olá, me chamo Rodrigo Apolo!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> <br/> Desenvolvedor Back-End com foco em Desenvolvimento Web 
 
-<img src="https://user-images.githubusercontent.com/70405959/159364625-09577394-fd15-4325-b854-07f17c97cf6a.png" width="300" height="400"/>
+
 
  </div>
 
