@@ -42,12 +42,9 @@ Sou Graduando Análise de Desenvolvimento de sistemas, mantenho interesse pelas 
 
 <h2 align="center"> Estatísticas do meu GitHub </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rodrigoapolo&count_private=true&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoapolo&theme=algolia&count_private=true" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoapolo&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoapolo&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!-- ![Snake animation](https://github.com/rodrigoapolo/rodrigoapolo/blob/output/github-contribution-grid-snake.svg)-->
