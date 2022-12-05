@@ -1,8 +1,8 @@
-# Olá, me chamo Rodrigo Apolo!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, my name is Rodrigo Apolo!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
-Sou Graduando Análise de Desenvolvimento de sistemas, mantenho interesse pelas áreas de Desenvolvimento de sistemas, softwares,  usuário final e também em pesquisas nas áreas de regras de negócio do sistema, banco de dados e testes de unidade.
+I am a Systems Development Analysis student, interested in the areas of Systems Development, software, end user and also in research in the areas of system business rules, database and unit tests.
 
-### Estou desenvolvendo projetos com  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
+### I'm developing projects with  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px> </h2>
 
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
