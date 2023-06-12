@@ -1,4 +1,4 @@
-# Hello, my name is Rodrigo Apolo!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, my name is Rodrigo Gonçalves!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 - I am a Systems Development Analysis student, interested in the areas of Systems Development, software, end user and also in research in the areas of system business rules, database and unit tests.
 
