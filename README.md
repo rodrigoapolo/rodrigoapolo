@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  Outros: Docker, Linux, AWS, Maven, HTML, CSS, PHP.
+  Outros: Docker, Linux, AWS, Maven, HTML, CSS, PHP, Bootstrap.
 </p>
 
 
